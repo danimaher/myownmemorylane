@@ -9,8 +9,8 @@
 - Simple and intuitive interface for caregivers and patients
 
 ## 🛠 Tech Stack
-
-- PHP  
+- Apache
+- PHP   
 - MySQL  
 - HTML  
 - JavaScript  
