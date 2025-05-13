@@ -1,9 +1,9 @@
 <?php
 class Config {
-	private $host = 'mysql9001.site4now.net';
-	private $dbuser = 'aaffb7_memory';
-	private $dbpassword = 'Memory123!@#';
-	private $database = 'db_aaffb7_memory';
+	private $host = '****';
+	private $dbuser = '****';
+	private $dbpassword = '***';
+	private $database = '***';
 	private $prefix = '';
 
 function getHost()
